@@ -1,0 +1,68 @@
+404 - Rashmi Sharma ,0 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Aflatoon - Saurabh Patil ,1 ,-1 ,-1 ,1 ,-1 ,0 ,1 ,-1 ,-1 
+Afterglow - Shreyansh Agarwal ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+AKATSUKI - Varad Agarwal ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+Amigos - Sarthak Goyal ,0 ,-1 ,-1 ,0 ,-1 ,0 ,0 ,-1 ,-1 
+Assembling Champions - Mayank Mishra ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+bajrangdal - Varun Maghnani ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Black Hawks - Ayush Gupta ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Braniacs.zip - Vishnudatta Thota ,0 ,-1 ,-1 ,-1 ,-1 ,-1 ,0 ,-1 ,-1 
+DeKryptors - Akshay Murali ,1 ,-1 ,-1 ,1 ,1 ,1 ,1 ,-1 ,-1 
+Diamond Dogs - Udit Prasad ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+ERROR404 - ujwal kumar ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+ERUDITES - Shamayeeta Das ,1 ,0 ,-1 ,-1 ,-1 ,1 ,1 ,-1 ,-1 
+Exorcists - Ujwal Jyot Panda ,1 ,0 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+gravity - Akshat Agarwal ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+high functioning sociopaths - Kinshuk Siyol ,1 ,1 ,1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Hotshots - Kalash Talati ,-1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Ignited Minds - Piyush Beegala ,1 ,0 ,-1 ,1 ,0 ,-1 ,-1 ,-1 ,-1 
+Incognito - B. Anshuman ,1 ,-1 ,-1 ,1 ,0 ,0 ,-1 ,-1 ,-1 
+Isotopes - Harsh Sharma ,1 ,0 ,-1 ,1 ,1 ,1 ,1 ,0 ,-1 
+KimJong001 - Suket Raj ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Kuch bh! - Keval Moliya ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Mouse potatoes - Utkarsh Gupta ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Natus Vinceri - Ashutosh Sharma ,-1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Neon-Rubidium(NE-RD) - yash barjatya ,-1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Nerds - Rekha Chaudhary ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+OJASVĪ - Nkkil Gupta ,0 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 
+OneInfiniteLoop - Vijay Bharadwaj ,1 ,0 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+PClub ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 
+PHØENIX - Sweta Kumari ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+PRO_fessors - Aryan Jain ,1 ,-1 ,-1 ,1 ,1 ,1 ,1 ,-1 ,-1 
+Ravens - Dhwanit Balwani ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Real Slim Shadies - Sierra Glider ,-1 ,-1 ,-1 ,0 ,-1 ,-1 ,1 ,-1 ,-1 
+rectus - Sanjay Sugunan ,1 ,-1 ,-1 ,1 ,-1 ,0 ,1 ,-1 ,-1 
+Renegades - Tanush ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Robust - Lavesh Mangal ,-1 ,1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 
+Rocket - Pradhyumna Lavania ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Satirical Intelligence - Suyash Kumar Pathak ,1 ,-1 ,-1 ,1 ,1 ,1 ,1 ,-1 ,-1 
+shadow hunters - Saksham Arora ,1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+SINISTER_STAR - Navya Ratnan ,-1 ,0 ,-1 ,0 ,-1 ,-1 ,0 ,-1 ,-1 
+Six_in_the_city - Ananya Mehrotra ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Smoke Nova - Akshat Arya ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+Spherical_Cows - Parinay Chauhan ,1 ,1 ,-1 ,1 ,1 ,1 ,1 ,-1 ,-1 
+Stuxnet - Ayush Agrawal ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Supersede.zip - Mega Awe ,1 ,1 ,-1 ,1 ,1 ,1 ,1 ,-1 ,-1 
+SViKARR - Raghav Modani ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+Team Aspire - Ravi Patel ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+tech brigade - Ashu Pal ,-1 ,-1 ,-1 ,0 ,-1 ,-1 ,0 ,-1 ,-1 
+TechEn_6 - Sweta Shekhar ,1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 
+Techerrs-V - Riya Saini ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+TechKnights - Preet Rathod ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+techNINJAS - Shrey Maru ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Technogeeks - Apeksha Agrawal ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+Technoids - granth choudhary ,1 ,-1 ,-1 ,1 ,0 ,0 ,-1 ,-1 ,-1 
+Technozards - Aadarsh Shaw ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+TechTanium - Raj verma ,1 ,0 ,-1 ,1 ,0 ,-1 ,1 ,-1 ,-1 
+Tech_nicks - Chinmay Joshi ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Tech_Risers - Parul Singh ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Terminators - Satvik Chandra Shukla ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+The Cyco-Paths - Kshiteesh Bhardwaj ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+The Errors - Akshit Verma ,1 ,-1 ,0 ,0 ,0 ,0 ,1 ,-1 ,-1 
+The Invincibles - yatharth singh ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+thesixscorchers - A S ,-1 ,-1 ,-1 ,-1 ,0 ,-1 ,0 ,-1 ,-1 
+Tribe - gautam ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+UnWiseGuys - Atharva Dehadraya ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
+Volcano - Sowmya ,1 ,-1 ,-1 ,1 ,-1 ,-1 ,1 ,-1 ,-1 
+X-Force - Avishek Bharti ,1 ,-1 ,-1 ,-1 ,-1 ,-1 ,1 ,-1 ,-1 
+Yes - Aditya Subramanian ,1 ,-1 ,-1 ,1 ,-1 ,1 ,1 ,-1 ,-1 
