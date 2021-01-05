@@ -1,0 +1,45 @@
+Go to Post Office: west, 1st left, 1st right, 1st left.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery: south, 1st left, 1st right.
+Pickup a passenger going to the Cyclone.
+Go to the Cyclone: north, 1st left, 1st left, 2nd right.
+Pickup a passenger going to Rob's Rest.
+Pickup a passenger going to The Underground.
+Go to Rob's Rest: south, 1st left, 1st right, 1st right, 1st right.
+Go to The Underground: south, 1st left, 1st left, 1st right, 1st right, 2nd left.
+Switch to plan "C" if no one is waiting.
+
+[A]
+Switch to plan "B" if no one is waiting.
+Pickup a passenger going to the Cyclone.
+Go to Fueler Up: south.
+Go to the Cyclone: south, 2nd right, 1st left, 2nd right.
+Pickup a passenger going to the Multiplication Station.
+Pickup a passenger going to The Underground.
+Go to Rob's Rest: south, 1st left, 1st right, 1st right, 1st right.
+Pickup a passenger going to the Multiplication Station.
+Go to Multiplication Station: south, 1st left, 1st left, 1st right, 1st right, 4th left.
+Pickup a passenger going to Rob's Rest.
+Go to Rob's Rest: south, 1st right, 2nd left, 1st left, 1st right, 1st right.
+Go to The Underground: south, 1st left, 1st left, 1st right, 1st right, 2nd left.
+Switch to plan "A".
+
+[B]
+Go to Rob's Rest: south, 2nd right, 1st left, 1st left, 1st right, 1st right.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery: south, 1st left, 1st left, 1st right, 1st right, 1st right.
+Pickup a passenger going to the Post Office.
+Go to Post Office: north, 1st left, 1st right.
+Go to the Taxi Garage: north, 1st right, 1st left, 1st right.
+
+
+[C]
+1 is waiting at Starchild Numerology.
+Go to Starchild Numerology: south, 2nd right, 1st left, 1st left, 2nd left.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery: west, 1st right, 2nd right, 1st right, 1st right.
+Pickup a passenger going to the Post Office.
+Go to Post Office: north, 1st left, 1st right.
+Go to the Taxi Garage: north, 1st right, 1st left, 1st right.
+
+

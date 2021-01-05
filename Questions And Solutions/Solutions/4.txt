@@ -1,0 +1,14 @@
+Go to the Post Office: west 1st left, 1st right, 1st left.
+Pickup a passenger going to the Chop Suey.
+Go to Chop Suey: north 1st right, 1st left, 4th right, 1st left.
+Pickup a passenger going to the Narrow Path Park.
+Pickup a passenger going to the Narrow Path Park.
+Pickup a passenger going to the Narrow Path Park.
+Go to the Narrow Path Park: north 1st left, 1st right, 1st left.
+Go to the Narrow Path Park: west 1st left, 1st left, 1st left, 1st left.
+Pickup a passenger going to the Post Office.
+Pickup a passenger going to the Post Office.
+Pickup a passenger going to the Post Office.
+Go to the Post Office: east 1st right, 4th right, 1st left.
+Go to the Taxi Garage: north 1st right, 1st left, 1st right.
+

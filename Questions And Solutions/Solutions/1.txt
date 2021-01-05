@@ -1,0 +1,17 @@
+Go to the Post Office: west 1st left, 1st right, 1st left.
+Pickup a passenger going to the Chop Suey.
+Go to Chop Suey: north 1st right, 1st left, 4th right, 1st left.
+Pickup a passenger going to the The Babelfishery.
+Pickup a passenger going to the The Babelfishery.
+Pickup a passenger going to the The Babelfishery.
+Go to the The Babelfishery: south 1st right, 1st left.
+Pickup a passenger going to the Multiplication Station.
+Pickup a passenger going to the Multiplication Station.
+Pickup a passenger going to the Multiplication Station.
+Go to the Multiplication Station: north 1st right, 2nd left.
+Pickup a passenger going to the The Babelfishery.
+Go to the The Babelfishery: south 1st right, 1st left.
+Pickup a passenger going to the Post Office.
+Go to the Post Office: north 1st left, 1st right.
+Go to the Taxi Garage: north 1st right, 1st left, 1st right.
+
