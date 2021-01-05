@@ -1,0 +1,84 @@
+Go to Post Office : w 1 l 1 r 1 l. 
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery : s 1 l 1 r.
+Pickup a passenger going to Cyclone.
+Go to Cyclone : n 1 l 1 l 2 r.
+Pickup a passenger going to Sunny Skies Park.
+Pickup a passenger going to Sunny Skies Park.
+Go to Sunny Skies Park : s 1 l 1 l.
+Pickup a passenger going to Divide and Conquer.
+2 is waiting at Starchild Numerology.
+Go to Starchild Numerology : s 3 l.
+Pickup a passenger going to Divide and Conquer.
+Go to Divide and Conquer : w 1 r 2 r 1 r 2 l 3 l.
+Pickup a passenger going to Rounders Pub.
+Go to Rounders Pub : e 1 r 1 r 1 l.
+Pickup a passenger going to Multiplication Station.
+2 is waiting at Starchild Numerology.
+Go to Starchild Numerology : n 1 r 1 r 2 r 1 l 1 l 2 l. 
+
+Pickup a passenger going to Multiplication Station.
+Go to Multiplication Station : w 1 r 2 r 1 r 4 l.
+
+Pickup a passenger going to Equal's Corner.
+Go to Sunny Skies Park : s 1 r 2 l 1 r.
+Pickup a passenger going to Equal's Corner.
+Go to Equal's Corner : s.
+
+Switch to plan "ODD" if no one is waiting.
+
+"Even" is waiting at Writer's Depot. 
+Go to Sunny Skies Park : n.
+Go to Writer's Depot : s 1 r 1 l.
+Pickup a passenger going to Post Office.
+Go to Post Office : n 1 r 2 r 1 l.
+Go to Taxi Garage : n 1 r 1 l 1 r.
+
+[ODD]
+"Odd" is waiting at Writer's Depot. 
+Go to Sunny Skies Park : n.
+Go to Writer's Depot : s 1 r 1 l.
+Pickup a passenger going to Post Office.
+Go to Post Office : n 1 r 2 r 1 l.
+Go to Taxi Garage : n 1 r 1 l 1 r.
+
+
+
+
+
+
+
+
+Go to Post Office : w 1 l 1 r 1 l.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery : s 1 l 1 r.
+Pickup a passenger going to Cyclone.
+Go to Cyclone : n 1 l 1 l 2 r.
+Pickup a passenger going to Sunny Skies Park.
+Pickup a passenger going to Sunny Skies Park.
+Go to Sunny Skies Park : s 1 l 1 l.
+Pickup a passenger going to Divide and Conquer.
+2 is waiting at Starchild Numerology.
+Go to Starchild Numerology : s 3 l.
+Pickup a passenger going to Divide and Conquer.
+Go to Divide and Conquer : w 1 r 2 r 1 r 2 l 3 l.
+Pickup a passenger going to Rounders Pub.
+Go to Rounders Pub : e 1 r 1 r 1 l.
+Pickup a passenger going to Multiplication Station.
+2 is waiting at Starchild Numerology.
+Go to Starchild Numerology : n 1 r 1 r 2 r 1 l 1 l 2 l. 
+
+Pickup a passenger going to Multiplication Station.
+Go to Multiplication Station : w 1 r 2 r 1 r 4 l.
+
+Pickup a passenger going to The Babelfishery.
+Go to Sunny Skies Park : s 1 r 2 l 1 r.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery : s 1 l 1 r 1 r.
+
+Pickup a passenger going to Post Office.
+Pickup a passenger going to Post Office.
+
+Go to Post Office : n 1 l 1 r.
+Go to Taxi Garage : n 1 r 1 l 1 r.
+

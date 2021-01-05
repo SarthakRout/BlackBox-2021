@@ -1,0 +1,101 @@
+Go to Post Office: w 1 l 1 r 1 l.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery: s 1 l 1 r.
+Pickup a passenger going to Rob's Rest.
+Go to Rob's Rest: n 1 l 1 l 1 l 1 r 1 r.
+
+[check 4]
+Pickup a passenger going to Cyclone.
+Go to Cyclone: s 1 l 1 l 1 l 1 r.
+Pickup a passenger going to Equal's Corner.
+Pickup a passenger going to Divide and Conquer.
+Go to Rob's Rest: s 1 l 1 r 1 r 1 r.
+
+Go to Go More: s 1 l 1 r 1 r.
+
+4 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: s 1 r 1 l.
+Pickup a passenger going to Divide and Conquer.
+Go to Divide and Conquer: w 1 r 2 r 1 r 2 l 3 l.
+Pickup a passenger going to Trunkers.
+Go to Trunkers: e 1 r 3 r 1 l.
+Pickup a passenger going to Multiplication Station.
+4 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: w 1 l 2 l.
+Pickup a passenger going to Multiplication Station.
+Go to Multiplication Station: w 1 r 2 r 1 r 4 l.
+Pickup a passenger going to Equal's Corner.
+Go to Equal's Corner: s 1 r 2 l 1 l.
+Switch to plan "no" if no one is waiting.
+Pickup a passenger going to Rob's Rest.
+Go to Rob's Rest: n 1 r 1 l 1 r 1 l 1 r.
+
+[check 100]
+Pickup a passenger going to Cyclone.
+Go to Cyclone: s 1 l 1 l 1 l 1 r.
+Pickup a passenger going to Equal's Corner.
+Pickup a passenger going to Divide and Conquer.
+Go to Rob's Rest: s 1 l 1 r 1 r 1 r.
+
+Go to Go More: s 1 l 1 r 1 r.
+
+100 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: s 1 r 1 l.
+Pickup a passenger going to Divide and Conquer.
+Go to Divide and Conquer: w 1 r 2 r 1 r 2 l 3 l.
+Pickup a passenger going to Trunkers.
+Go to Trunkers: e 1 r 3 r 1 l.
+Pickup a passenger going to Multiplication Station.
+100 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: w 1 l 2 l.
+Pickup a passenger going to Multiplication Station.
+Go to Multiplication Station: w 1 r 2 r 1 r 4 l.
+Pickup a passenger going to Equal's Corner.
+Go to Equal's Corner: s 1 r 2 l 1 l.
+Switch to plan "yes" if no one is waiting.
+Pickup a passenger going to Rob's Rest.
+Go to Rob's Rest: n 1 r 1 l 1 r 1 l 1 r.
+
+[check 400]
+Pickup a passenger going to Cyclone.
+Go to Cyclone: s 1 l 1 l 1 l 1 r.
+Pickup a passenger going to Equal's Corner.
+Pickup a passenger going to Divide and Conquer.
+Go to Rob's Rest: s 1 l 1 r 1 r 1 r.
+
+Go to Go More: s 1 l 1 r 1 r.
+
+400 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: s 1 r 1 l.
+Pickup a passenger going to Divide and Conquer.
+Go to Divide and Conquer: w 1 r 2 r 1 r 2 l 3 l.
+Pickup a passenger going to Trunkers.
+Go to Trunkers: e 1 r 3 r 1 l.
+Pickup a passenger going to Multiplication Station.
+400 is waiting at the Starchild Numerology.
+Go to Starchild Numerology: w 1 l 2 l.
+Pickup a passenger going to Multiplication Station.
+Go to Multiplication Station: w 1 r 2 r 1 r 4 l.
+Pickup a passenger going to Equal's Corner.
+Go to Equal's Corner: s 1 r 2 l 1 l.
+Switch to plan "no" if no one is waiting.
+Switch to plan "yes".
+
+[no]
+"No" is waiting at the Writer's Depot.
+Go to the Writer's Depot: n 1 r 1 l 2 r.
+Pickup a passenger going to Post Office.
+Go to Post Office: n 1 r 2 r 1 l.
+Go to Taxi Garage: n 1 r 1 l 1 r.
+Switch to plan "end".
+
+[yes]
+"Yes" is waiting at the Writer's Depot.
+Go to the Writer's Depot: n 1 r 1 l 2 r.
+Pickup a passenger going to Post Office.
+Go to Post Office: n 1 r 2 r 1 l.
+Go to Taxi Garage: n 1 r 1 l 1 r.
+Switch to plan "end".
+
+[end]
+
